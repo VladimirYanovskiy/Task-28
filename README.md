@@ -19,6 +19,8 @@
 
 # Результат
 
- 1. С разработанными тест-кейсами можно ознакомиться по ссылке:
+ 1. С разработанными тест-кейсами и обнаруженными дефектами можно ознакомиться по ссылке:
     https://docs.google.com/spreadsheets/d/16JltgIVdKtq6fTDGzK8UqOQCxgmzo5EoTp0ZuVyh9fY/edit?usp=share_link
- 2. 
+ 2. С оформленным набором автотестов можно ознакомиться на GitHub по ссылке:
+    https://github.com/VladimirYanovskiy/Task-28.1.git
+ 3. 
