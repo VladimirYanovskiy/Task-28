@@ -44,6 +44,7 @@
 
  2. С оформленным набором автотестов можно ознакомиться на GitHub по ссылке:
     https://github.com/VladimirYanovskiy/Task-28.1_Final_test_automation_project.git
+    https://github.com/VladimirYanovskiy/Task-28.1_Final_test_automation_project.git
     
  3. Файловая структура автоматизированного проекта тестирования интерфейса авторизации в личном кабинете:
     - в корне проекта находится файл settings.py , в котором записаны валидные и не валидные данные телефона, почты, логина, лицевого счёта и пароля;
